@@ -1,6 +1,6 @@
 # dac
 
-only other file which dac.py will prompt is .dac.yaml
+only other file which dac.py will prompt is .dac.yaml (located $HOME)
 you can create manually or follow prompts
 
 lv - location of lv
