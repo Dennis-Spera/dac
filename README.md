@@ -10,7 +10,6 @@ ex:
 lv: /usr/local/bin/lv
 root: /Users/john.doe/cdata
 
-pending : requirements.txt
 
 # install these modules
 pip install commandlines
