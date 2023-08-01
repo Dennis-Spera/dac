@@ -6,10 +6,11 @@ you can create manually or follow prompts
 lv - location of lv
 root - location for extracing and storing atlas gzipped tarballs
 
+'''python
 ex:
 lv: /usr/local/bin/lv
 root: /Users/john.doe/cdata
-
+'''
 
 # install these modules
 pip install commandlines
